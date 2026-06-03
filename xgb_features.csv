@@ -1,7 +1,7 @@
 Features
-SP500
 N225
 NVI
+IMMN
 DXY
 J10Y
 U10Y
@@ -12,6 +12,7 @@ IRDL
 JYC
 JBEI
 BEI
+total_bias_shifted
 RSI
 DYHP
 DYLP
